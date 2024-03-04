@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Karla:ital@0;1&family=Kumbh+Sans:wght,YOPQ@100..900,40..300&family=Lexend+Deca:wght@100..900&family=Lilita+One&family=Madimi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Karla:ital@0;1&family=Kumbh+Sans:wght,YOPQ@100..900,40..300&family=Lexend+Deca:wght@100..900&family=Madimi+One&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+p{
+    font-family: "Kanit", sans-serif;
+  font-weight: 300;
+}
+.container{
+    width: 400px;
+    background-color: rgb(248, 246, 243);
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+.photo{
+    width: 200px;
+  margin-bottom: 10px;
+  
+}
+h1{
+    margin: 15px 0;
+    color: crimson;
+    font-family: "Kanit", sans-serif;
+  font-weight: 700;
+}
+h2{
+   margin: 12px 0;
+   color: rgb(241, 52, 90);
+   font-family: "Kanit", sans-serif;
+  font-weight: 300;
+}
+h3{
+    color: rgb(180, 16, 49);
+    font-family: "Kanit", sans-serif;
+  font-weight: 300;
+}
+hr{
+    color: gray solid 1px;
+    
+    margin: 5px;
+}
+h4{
+    font-family: "Kanit", sans-serif;
+  font-weight: 700;
+    color: burlywood;
+}
