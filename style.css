@@ -18,6 +18,7 @@ p{
 .container{
     width: 400px;
     background-color: rgb(248, 246, 243);
+    padding: 10px;
 }
 img{
     width: 100%;
